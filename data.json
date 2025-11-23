@@ -1,0 +1,592 @@
+[
+  {
+    "nome": "Pré-leitor 1",
+    "descricao": "A criança ainda está adquirindo este conhecimento.",
+    "indicacao": "Livros adequados para essa faixa do conhecimento.",
+    "recomendacoes": [
+      {
+        "titulo": "Primeiras Palavras no Banho",
+        "link": "https://www.todolivro.com.br/",
+        "imagem_url": "https://www.example.com/primeiras_palavras_banho.jpg"
+      },
+      {
+        "titulo": "Agito no Banho",
+        "link": "https://www.todolivro.com.br/",
+        "imagem_url": "https://www.example.com/agito_no_banho.jpg"
+      }
+    ],
+    "tags": [
+      "Pré-leitor"
+    ]
+  },
+  {
+    "nome": "Pré-leitor 2",
+    "descricao": "A criança soletra ao ler.",
+    "indicacao": "Livros adequados para essa faixa do conhecimento.",
+    "recomendacoes": [
+      {
+        "titulo": "Sobre Rodas",
+        "link": "https://www.upaeditora.com/p/sobre-rodas/",
+        "imagem_url": "https://www.example.com/sobre_rodas.jpg"
+      },
+      {
+        "titulo": "RicK-Zoom-MotoAmigos",
+        "link": "https://www.lojagirassolbrasil.com.br/rick-zoom-diversao-com-os-moto-amigos",
+        "imagem_url": "https://www.example.com/rick_zoom.jpg"
+      }
+    ],
+    "tags": [
+      "Pré-leitor"
+    ]
+  },
+  {
+    "nome": "Pré-leitor 3",
+    "descricao": "A criança consegue ler silabicamente.",
+    "indicacao": "Livros adequados para essa faixa do conhecimento.",
+    "recomendacoes": [
+      {
+        "titulo": "Nina Menina",
+        "link": "https://www.criaeditora.com.br/",
+        "imagem_url": "https://www.example.com/nina_menina.jpg"
+      },
+      {
+        "titulo": "O sonho da Lagarta Catarina",
+        "link": "https://www.criaeditora.com.br/",
+        "imagem_url": "https://www.example.com/sonho_lagarta_catarina.jpg"
+      }
+    ],
+    "tags": [
+      "Pré-leitor"
+    ]
+  },
+  {
+    "nome": "Pré-leitor 4",
+    "descricao": "A criança consegue ler até 10 palavras por minuto e 5 pseudopalavras (palavras inventadas).",
+    "indicacao": "Livros adequados para essa faixa do conhecimento.",
+    "recomendacoes": [
+      {
+        "titulo": "O carro de polícia",
+        "link": "https://www.lojagirassolbrasil.com.br/",
+        "imagem_url": "https://www.example.com/carro_policia.jpg"
+      },
+      {
+        "titulo": "O Trator Trabalhador",
+        "link": "https://www.lojagirassolbrasil.com.br/",
+        "imagem_url": "https://www.example.com/trator_trabalhador.jpg"
+      }
+    ],
+    "tags": [
+      "Pré-leitor"
+    ]
+  },
+  {
+    "nome": "Leitor Iniciante",
+    "descricao": "A criança já consegue juntar as sílabas, formando palavras e frases simples, mas ainda lê de forma pausada.",
+    "indicacao": "Livros com frases curtas, letras grandes e muitas imagens para apoiar a compreensão.",
+    "recomendacoes": [
+      {
+        "titulo": "Coleção 'Leia Comigo'",
+        "link": "https://www.girassolbrasil.com.br/colecao-leia-comigo",
+        "imagem_url": "https://www.example.com/leia_comigo.jpg"
+      },
+      {
+        "titulo": "O Grúfalo",
+        "link": "https://www.companhiadasletrinhas.com.br/livro/9788574122978/o-grufalo",
+        "imagem_url": "https://www.example.com/grufalo.jpg"
+      }
+    ],
+    "tags": [
+      "Iniciante"
+    ]
+  },
+  {
+    "nome": "Leitor em Processo",
+    "descricao": "A criança lê com mais fluidez e começa a compreender narrativas um pouco mais longas. Já consegue ler sozinha.",
+    "indicacao": "Livros com capítulos curtos, enredos envolventes e vocabulário um pouco mais variado.",
+    "recomendacoes": [
+      {
+        "titulo": "Diário de um Banana",
+        "link": "https://www.vriseditora.com.br/diario-de-um-banana",
+        "imagem_url": "https://www.example.com/diario_banana.jpg"
+      },
+      {
+        "titulo": "O Menino Maluquinho",
+        "link": "https://www.companhiadasletrinhas.com.br/livro/9788574065046/o-menino-maluquinho",
+        "imagem_url": "https://www.example.com/menino_maluquinho.jpg"
+      }
+    ],
+    "tags": [
+      "Em Processo"
+    ]
+  },
+  {
+    "nome": "Leitor Fluente",
+    "descricao": "A criança lê com velocidade, entonação e boa compreensão. Consegue ler textos mais longos e complexos.",
+    "indicacao": "Livros com narrativas mais elaboradas, diferentes gêneros literários e temas mais profundos.",
+    "recomendacoes": [
+      {
+        "titulo": "Meu pé de laranja lima",
+        "link": "https://www.amazon.com.br/Meu-P%C3%A9-Laranja-Lima/",
+        "imagem_url": "https://www.example.com/meu_pe_laranja_lima.jpg"
+      },
+      {
+        "titulo": "As águas que conversavam",
+        "link": "https://www.estantevirtual.com.br/busca/as-aguas-que-conversavam",
+        "imagem_url": "https://www.example.com/aguas_conversavam.jpg"
+      }
+    ],
+    "tags": [
+      "Fluente"
+    ]
+  },
+  {
+    "nome": "Explorador Sensorial",
+    "descricao": "Fase inicial onde a criança interage com o livro através dos sentidos, focando em formas, cores, texturas e sons, sem foco na decodificação textual.",
+    "indicacao": "Livros de banho, livros táteis, com abas ou partes móveis. Textos curtos ou ausentes.",
+    "recomendacoes": [
+      {
+        "titulo": "O Monstro das Cores",
+        "link": "https://www.editora.com.br/omonstro",
+        "imagem_url": "https://www.example.com/monstro_das_cores.jpg"
+      }
+    ],
+    "tags": [
+      "Sensorial",
+      "Primeiros Anos",
+      "Imagens",
+      "Emoções"
+    ]
+  },
+  {
+    "nome": "Construtor de Sentidos",
+    "descricao": "A criança começa a conectar imagens a palavras faladas e a entender a sequência narrativa básica. Desenvolvimento da linguagem oral e escuta atenta.",
+    "indicacao": "Livros com repetição de palavras e rimas, que favoreçam a memorização e a participação ativa. Grande formato e ilustrações claras.",
+    "recomendacoes": [
+      {
+        "titulo": "A Lagarta Comilona",
+        "link": "https://www.editora.com.br/lagartacomilona",
+        "imagem_url": "https://www.example.com/lagarta_comilona.jpg"
+      }
+    ],
+    "tags": [
+      "Linguagem Oral",
+      "Rimas",
+      "Repetição",
+      "Interação"
+    ]
+  },
+  {
+    "nome": "Descodificador Silábico",
+    "descricao": "A criança inicia a associação fonema-grafema, decodificando sílabas simples e formando palavras. Leitura laboriosa e lenta, com foco na precisão.",
+    "indicacao": "Livros com letras em caixa alta ou bastão, vocabulário controlado e frases muito curtas e diretas, suportadas por ilustrações.",
+    "recomendacoes": [
+      {
+        "titulo": "O Gato de Botas (Versão Simplificada)",
+        "link": "https://www.editora.com.br/gatodebotasimplificado",
+        "imagem_url": "https://www.example.com/gato_de_botas.jpg"
+      }
+    ],
+    "tags": [
+      "Fonética",
+      "Silabas Simples",
+      "Frases Curtas",
+      "Autonomia"
+    ]
+  },
+  {
+    "nome": "Leitor Emergente",
+    "descricao": "Capacidade de ler frases completas e simples, começando a construir o sentido global do texto sem depender de intervenção constante. Reconhecimento crescente de palavras de alta frequência.",
+    "indicacao": "Narrativas curtas, com enredos lineares e previsíveis. Livros ilustrados onde o texto se torna ligeiramente mais extenso que a imagem.",
+    "recomendacoes": [
+      {
+        "titulo": "O Rato Urbano e o Rato do Campo",
+        "link": "https://www.editora.com.br/ratourbanocampo",
+        "imagem_url": "https://www.example.com/rato_urbano_campo.jpg"
+      }
+    ],
+    "tags": [
+      "Narrativa Curta",
+      "Letra Bastão",
+      "Ilustrações",
+      "Construção de Sentido"
+    ]
+  },
+  {
+    "nome": "Reconhecedor de Palavras",
+    "descricao": "Aumento significativo da velocidade de leitura e do reconhecimento visual de palavras. Maior facilidade em lidar com estruturas frasais um pouco mais complexas.",
+    "indicacao": "Textos com foco em palavras do cotidiano, introdução de humor e jogos de palavras, incentivando a leitura como prazer.",
+    "recomendacoes": [
+      {
+        "titulo": "Marcelo, Marmelo, Martelo",
+        "link": "https://www.editora.com.br/marcelomarmelo",
+        "imagem_url": "https://www.example.com/marcelo_marmelo_martelo.jpg"
+      }
+    ],
+    "tags": [
+      "Palavras Frequentes",
+      "Vocabulário Básico",
+      "Humor",
+      "Cotidiano"
+    ]
+  },
+  {
+    "nome": "Leitor Consolidado",
+    "descricao": "A criança lê textos narrativos mais longos, mantendo a compreensão e iniciando a transição para livros com capítulos curtos. A decodificação já é automatizada.",
+    "indicacao": "Livros com primeiros capítulos, tramas simples de mistério ou aventura, que prendam a atenção sem excesso de descrições complexas.",
+    "recomendacoes": [
+      {
+        "titulo": "O Mistério da Casa Torta",
+        "link": "https://www.editora.com.br/misteriocasatorta",
+        "imagem_url": "https://www.example.com/misterio_casa_torta.jpg"
+      }
+    ],
+    "tags": [
+      "Capítulos Curtos",
+      "Trama Simples",
+      "Mistério Infantil",
+      "Independência"
+    ]
+  },
+  {
+    "nome": "Transição para a Fluência",
+    "descricao": "Foco no ritmo, entonação e expressão da leitura. A criança começa a usar a pontuação para modular a voz e a compreender o tom emocional do texto.",
+    "indicacao": "Livros com diálogos abundantes, que exigem entonação e representam a fala de personagens com personalidades distintas.",
+    "recomendacoes": [
+      {
+        "titulo": "O Menino Maluquinho",
+        "link": "https://www.editora.com.br/meninomaluquinho",
+        "imagem_url": "https://www.example.com/menino_maluquinho_2.jpg"
+      }
+    ],
+    "tags": [
+      "Leitura Expressiva",
+      "Diálogos",
+      "Cultura Brasileira",
+      "Riqueza Linguística"
+    ]
+  },
+  {
+    "nome": "Leitor Independente",
+    "descricao": "Proficiência na leitura de livros de médio porte e início da capacidade de interpretar metáforas simples e temas abstratos. O prazer pela leitura é estabelecido.",
+    "indicacao": "Clássicos infantis que exploram temas de amizade, perda e propósito, exigindo um nível inicial de reflexão e subjetividade.",
+    "recomendacoes": [
+      {
+        "titulo": "O Pequeno Príncipe",
+        "link": "https://www.editora.com.br/pequenoprincipe",
+        "imagem_url": "https://www.example.com/pequeno_principe.jpg"
+      }
+    ],
+    "tags": [
+      "Metafórico",
+      "Profundidade",
+      "Primeira Leitura Longa",
+      "Fantasia"
+    ]
+  },
+  {
+    "nome": "Leitor Proficiente",
+    "descricao": "Capaz de lidar com narrativas complexas e extensas, com vários personagens e sub-tramas. Forte desenvolvimento da imaginação e do pensamento crítico inicial.",
+    "indicacao": "Literatura infantil clássica que desafia as convenções, apresenta vocabulário rico e personagens bem desenvolvidos.",
+    "recomendacoes": [
+      {
+        "titulo": "Matilda",
+        "link": "https://www.editora.com.br/matilda",
+        "imagem_url": "https://www.example.com/matilda.jpg"
+      }
+    ],
+    "tags": [
+      "Narrativa Complexa",
+      "Personagens Desenvolvidos",
+      "Engajamento",
+      "Literatura Infantil Clássica"
+    ]
+  },
+  {
+    "nome": "Apreciador de Gêneros",
+    "descricao": "O leitor começa a distinguir e explorar ativamente diferentes gêneros textuais, como poesia, não ficção, história e fantasia.",
+    "indicacao": "Livros que apresentam fatos reais, biografias simplificadas ou informações sobre o mundo, estimulando a leitura informativa.",
+    "recomendacoes": [
+      {
+        "titulo": "Histórias de Ninar para Garotas Rebeldes",
+        "link": "https://www.editora.com.br/garotasrebeldes",
+        "imagem_url": "https://www.example.com/garotas_rebeldes.jpg"
+      }
+    ],
+    "tags": [
+      "Não Ficção",
+      "Biografias",
+      "Diversidade de Gêneros",
+      "Informação"
+    ]
+  },
+  {
+    "nome": "Analista Textual",
+    "descricao": "Capacidade de identificar os elementos centrais do texto (enredo, clímax, resolução) e de interpretar o significado implícito e o simbolismo.",
+    "indicacao": "Livros com mensagens profundas e alegóricas que exigem interpretação além da literalidade do texto.",
+    "recomendacoes": [
+      {
+        "titulo": "A Árvore Generosa",
+        "link": "https://www.editora.com.br/arvoregenerosa",
+        "imagem_url": "https://www.example.com/arvore_generosa.jpg"
+      }
+    ],
+    "tags": [
+      "Interpretação de Sentido",
+      "Alegoria",
+      "Simbolismo",
+      "Temas Profundos"
+    ]
+  },
+  {
+    "nome": "Leitor Crítico",
+    "descricao": "O leitor questiona a intenção do autor, identifica o contexto histórico e social da obra e começa a reconhecer vieses e ironias.",
+    "indicacao": "Literatura juvenil que introduz temas sociais e políticos complexos através de metáforas ou sátiras.",
+    "recomendacoes": [
+      {
+        "titulo": "A Revolução dos Bichos",
+        "link": "https://www.editora.com.br/revolucaobichos",
+        "imagem_url": "https://www.example.com/revolucao_dos_bichos.jpg"
+      }
+    ],
+    "tags": [
+      "Sátira Política",
+      "Análise Social",
+      "Alusões Históricas",
+      "Literatura Juvenil"
+    ]
+  },
+  {
+    "nome": "Leitor Reflexivo",
+    "descricao": "Habilidade de aplicar as lições e temas do texto à sua própria vida e ao mundo real, desenvolvendo a empatia e o raciocínio moral.",
+    "indicacao": "Livros que tratam de temas de inclusão, diversidade e desafios pessoais, estimulando a discussão de valores.",
+    "recomendacoes": [
+      {
+        "titulo": "Extraordinário",
+        "link": "https://www.editora.com.br/extraordinario",
+        "imagem_url": "https://www.example.com/extraordinario.jpg"
+      }
+    ],
+    "tags": [
+      "Empatia",
+      "Inclusão",
+      "Desenvolvimento Pessoal",
+      "Questões Morais"
+    ]
+  },
+  {
+    "nome": "Leitor Avançado I",
+    "descricao": "Proficiência em lidar com estruturas narrativas não lineares, narradores não confiáveis e estilos de escrita mais densos e complexos.",
+    "indicacao": "Distopias e romances que abordam conceitos filosóficos e políticos avançados, exigindo dedução constante.",
+    "recomendacoes": [
+      {
+        "titulo": "1984",
+        "link": "https://www.editora.com.br/milnovecentos",
+        "imagem_url": "https://www.example.com/1984.jpg"
+      }
+    ],
+    "tags": [
+      "Distopia",
+      "Temas Complexos",
+      "Estrutura Narrativa",
+      "Engajamento Cívico"
+    ]
+  },
+  {
+    "nome": "Leitor Avançado II",
+    "descricao": "Capacidade de engajar-se com a alta literatura, incluindo obras de realismo mágico ou prosa experimental, dominando vocabulário erudito.",
+    "indicacao": "Grandes clássicos da literatura mundial com períodos longos e tramas familiares extensas e ricas em detalhes.",
+    "recomendacoes": [
+      {
+        "titulo": "Cem Anos de Solidão",
+        "link": "https://www.editora.com.br/cemanos",
+        "imagem_url": "https://www.example.com/cem_anos_de_solidao.jpg"
+      }
+    ],
+    "tags": [
+      "Realismo Mágico",
+      "Prosa Densa",
+      "Literatura Clássica",
+      "Análise Estrutural"
+    ]
+  },
+  {
+    "nome": "Leitor Engajado",
+    "descricao": "O leitor busca ativamente a leitura como forma de participação social e debate, utilizando o texto para formar e expressar opiniões.",
+    "indicacao": "Livros que abordam questões de justiça social, racismo e história recente, estimulando o debate em grupo.",
+    "recomendacoes": [
+      {
+        "titulo": "A Cor Púrpura",
+        "link": "https://www.editora.com.br/corpúrpura",
+        "imagem_url": "https://www.example.com/a_cor_purpura.jpg"
+      }
+    ],
+    "tags": [
+      "Debate",
+      "Temas Maduros",
+      "Literatura Contemporânea",
+      "Justiça Social"
+    ]
+  },
+  {
+    "nome": "Leitor Especializado",
+    "descricao": "Foco na leitura técnica e acadêmica em áreas específicas de interesse (ciências, história, artes), dominando jargões específicos.",
+    "indicacao": "Textos de divulgação científica ou histórica que exigem concentração e capacidade de absorver informações densas.",
+    "recomendacoes": [
+      {
+        "titulo": "Breve História do Tempo",
+        "link": "https://www.editora.com.br/brevehistoria",
+        "imagem_url": "https://www.example.com/breve_historia_tempo.jpg"
+      }
+    ],
+    "tags": [
+      "Divulgação Científica",
+      "Não Ficção Avançada",
+      "Vocabulário Técnico",
+      "Estudo"
+    ]
+  },
+  {
+    "nome": "Desenvolvedor de Vocabulário",
+    "descricao": "Nível em que o leitor não apenas compreende o vocabulário, mas busca ativamente expandi-lo e usá-lo em sua escrita e fala.",
+    "indicacao": "Livros de referência, guias de sinônimos e antônimos, ou romances que são notórios por sua riqueza lexical.",
+    "recomendacoes": [
+      {
+        "titulo": "Dicionário do Desbravador de Palavras",
+        "link": "https://www.editora.com.br/dicionario",
+        "imagem_url": "https://www.example.com/dicionario_desbravador.jpg"
+      }
+    ],
+    "tags": [
+      "Expansão Lexical",
+      "Sinônimos",
+      "Etimologia",
+      "Referência"
+    ]
+  },
+  {
+    "nome": "Mestre da Compreensão",
+    "descricao": "Capacidade máxima de inferência, síntese e avaliação de argumentos. O leitor consegue destrinchar a lógica por trás de textos argumentativos complexos.",
+    "indicacao": "Obras que apresentam visões de mundo alternativas e argumentos filosóficos profundos sobre a natureza humana e a sociedade.",
+    "recomendacoes": [
+      {
+        "titulo": "Admirável Mundo Novo",
+        "link": "https://www.editora.com.br/admiravelmundo",
+        "imagem_url": "https://www.example.com/admiravel_mundo_novo.jpg"
+      }
+    ],
+    "tags": [
+      "Argumentação",
+      "Inferência",
+      "Conclusão Lógica",
+      "Filosofia"
+    ]
+  },
+  {
+    "nome": "Leitor Estratégico",
+    "descricao": "O leitor adapta sua estratégia de leitura de acordo com o tipo de texto (skimming, scanning, leitura atenta) e o objetivo da leitura.",
+    "indicacao": "Livros com diferentes estilos e formatos (e-mails, documentos, poemas, narrativas) dentro da mesma obra, que exigem flexibilidade do leitor.",
+    "recomendacoes": [
+      {
+        "titulo": "O Guia do Mochileiro das Galáxias",
+        "link": "https://www.editora.com.br/guiamochileiro",
+        "imagem_url": "https://www.example.com/guia_mochileiro.jpg"
+      }
+    ],
+    "tags": [
+      "Humor",
+      "Ironia",
+      "Diferentes Pontos de Vista",
+      "Estratégias de Leitura"
+    ]
+  },
+  {
+    "nome": "Leitor Interativo",
+    "descricao": "Nível que engloba a leitura digital e a leitura de textos que requerem a tomada de decisão para avançar na narrativa, exercitando a agência do leitor.",
+    "indicacao": "Livros-jogo ou narrativas com caminhos alternativos que forçam o leitor a reler e considerar múltiplas possibilidades.",
+    "recomendacoes": [
+      {
+        "titulo": "Escolha Sua Aventura: O Labirinto do Tempo",
+        "link": "https://www.editora.com.br/escolhasuaaventura",
+        "imagem_url": "https://www.example.com/escolha_sua_aventura.jpg"
+      }
+    ],
+    "tags": [
+      "Narrativa Ramificada",
+      "Tomada de Decisão",
+      "Engajamento Ativo",
+      "Flexibilidade"
+    ]
+  },
+  {
+    "nome": "Leitor Juvenil I",
+    "descricao": "Início da leitura de 'middle grade' e 'young adult', dominando o ritmo e a extensão, e apreciando o desenvolvimento de arcos de personagens longos.",
+    "indicacao": "Séries de fantasia e aventura que utilizam mitologias e culturas clássicas como base para histórias modernas.",
+    "recomendacoes": [
+      {
+        "titulo": "Percy Jackson e o Ladrão de Raios",
+        "link": "https://www.editora.com.br/percyjackson",
+        "imagem_url": "https://www.example.com/percy_jackson.jpg"
+      }
+    ],
+    "tags": [
+      "Fantasia Urbana",
+      "Mitologia",
+      "Aventura",
+      "Transição"
+    ]
+  },
+  {
+    "nome": "Leitor Juvenil II",
+    "descricao": "Aceitação de temas mais maduros, dilemas morais complexos e a leitura de distopias que refletem sobre a sociedade atual.",
+    "indicacao": "Livros que exploram a sobrevivência, a luta por poder e as consequências de escolhas extremas em ambientes opressivos.",
+    "recomendacoes": [
+      {
+        "titulo": "Jogos Vorazes",
+        "link": "https://www.editora.com.br/jogosvorazes",
+        "imagem_url": "https://www.example.com/jogos_vorazes.jpg"
+      }
+    ],
+    "tags": [
+      "Ação",
+      "Distopia Adolescente",
+      "Romance",
+      "Sobrevivência"
+    ]
+  },
+  {
+    "nome": "Leitor Adolescente",
+    "descricao": "Capacidade de leitura de literatura adulta, com foco em dramas sociais, históricos e temas que envolvem preconceito e injustiça.",
+    "indicacao": "Obras que abordam questões de direitos civis, ética e complexidades humanas, exigindo sensibilidade e maturidade.",
+    "recomendacoes": [
+      {
+        "titulo": "O Sol é Para Todos",
+        "link": "https://www.editora.com.br/osoleparatodos",
+        "imagem_url": "https://www.example.com/o_sol_e_para_todos.jpg"
+      }
+    ],
+    "tags": [
+      "Preconceito",
+      "Justiça",
+      "Literatura Americana",
+      "Drama Social"
+    ]
+  },
+  {
+    "nome": "Leitor Filosófico",
+    "descricao": "Busca por obras que abordam diretamente questões existenciais, a história do pensamento e o desenvolvimento do conhecimento humano.",
+    "indicacao": "Romances que introduzem conceitos filosóficos complexos de forma didática ou narrativa.",
+    "recomendacoes": [
+      {
+        "titulo": "O Mundo de Sofia",
+        "link": "https://www.editora.com.br/mundodesofia",
+        "imagem_url": "https://www.example.com/mundo_de_sofia.jpg"
+      }
+    ],
+    "tags": [
+      "História da Filosofia",
+      "Questões Existenciais",
+      "Aprendizagem",
+      "Conhecimento"
+    ]
+  }
+]
